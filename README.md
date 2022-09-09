@@ -28,4 +28,3 @@ Puedes visualizar el DashBoard en:
 
 https://app.powerbi.com/links/TMmOTkreDf?ctid=c9c574fc-9a9e-4af1-85a7-d55efb64a6cc&pbi_source=linkShare
 
-https://cdn.rawgit.com/Users/pable/Documents/Proyectos Ironhack/w5-Visualization-project/Pantallazo.png
